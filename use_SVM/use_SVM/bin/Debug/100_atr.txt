@@ -1,0 +1,8 @@
+N	  2239
+V	     1
+A	    33
++	     1
+
+N	     1 episode     30:06
+
+Both signals clean	     1 episode     30:06

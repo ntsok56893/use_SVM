@@ -1,0 +1,12 @@
+N	  1507
+V	   520
+~	    30
++	    41
+
+N	    21 episodes    22:35
+VT	     1 episode      0:02
+B	    18 episodes     7:15
+T	     1 episode      0:13
+
+Both signals clean	    16 episodes    16:25
+Signal 1 noisy	    15 episodes    13:40
